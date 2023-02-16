@@ -1,0 +1,12 @@
+body 
+{
+    background-color: slategray;
+    text-align: center;
+}
+
+p
+{
+    color: black;
+    font: Cursive;
+    font-size: 1.5em
+}
